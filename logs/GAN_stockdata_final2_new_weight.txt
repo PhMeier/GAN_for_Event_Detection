@@ -1,0 +1,514 @@
+X Len:  3982
+LOSS:  tensor(0.0009, device='cuda:0', grad_fn=<DivBackward0>) 0
+total_loss_g:  tensor(1.3377, device='cuda:0', grad_fn=<DivBackward0>)
+total_loss_d:  tensor(1.3377, device='cuda:0', grad_fn=<DivBackward0>)
+total_loss_g2:  tensor(1.4074, device='cuda:0', grad_fn=<DivBackward0>)
+total_loss_d2:  tensor(2.7459, device='cuda:0', grad_fn=<DivBackward0>)
+/home/students/meier/Seq2Seq/only_torch/lib/python3.5/site-packages/sklearn/metrics/_classification.py:1272: UndefinedMetricWarning: Recall is ill-defined and being set to 0.0 in labels with no true samples. Use `zero_division` parameter to control this behavior.
+  _warn_prf(average, modifier, msg_start, len(result))
+(1.2228041097430364, 'accuracy: ', tensor(0.9426, device='cuda:0'), 'precision: ', 0.8196699669966998, 'Recall: ', 0.8038228441081721)
+LOSS:  tensor(0.0009, device='cuda:0', grad_fn=<DivBackward0>) 1
+total_loss_g:  tensor(1.3327, device='cuda:0', grad_fn=<DivBackward0>)
+total_loss_d:  tensor(1.3327, device='cuda:0', grad_fn=<DivBackward0>)
+total_loss_g2:  tensor(1.3441, device='cuda:0', grad_fn=<DivBackward0>)
+total_loss_d2:  tensor(2.6772, device='cuda:0', grad_fn=<DivBackward0>)
+(1.223704691958832, 'accuracy: ', tensor(0.9417, device='cuda:0'), 'precision: ', 0.8165346534653467, 'Recall: ', 0.8004880056982226)
+LOSS:  tensor(0.0009, device='cuda:0', grad_fn=<DivBackward0>) 2
+total_loss_g:  tensor(1.3327, device='cuda:0', grad_fn=<DivBackward0>)
+total_loss_d:  tensor(1.3328, device='cuda:0', grad_fn=<DivBackward0>)
+total_loss_g2:  tensor(1.3430, device='cuda:0', grad_fn=<DivBackward0>)
+total_loss_d2:  tensor(2.6709, device='cuda:0', grad_fn=<DivBackward0>)
+LOSS:  tensor(0.0009, device='cuda:0', grad_fn=<DivBackward0>) 3
+total_loss_g:  tensor(1.3327, device='cuda:0', grad_fn=<DivBackward0>)
+total_loss_d:  tensor(1.3328, device='cuda:0', grad_fn=<DivBackward0>)
+total_loss_g2:  tensor(1.3429, device='cuda:0', grad_fn=<DivBackward0>)
+total_loss_d2:  tensor(2.6703, device='cuda:0', grad_fn=<DivBackward0>)
+LOSS:  tensor(0.0009, device='cuda:0', grad_fn=<DivBackward0>) 4
+total_loss_g:  tensor(1.3333, device='cuda:0', grad_fn=<DivBackward0>)
+total_loss_d:  tensor(1.3333, device='cuda:0', grad_fn=<DivBackward0>)
+total_loss_g2:  tensor(1.3428, device='cuda:0', grad_fn=<DivBackward0>)
+total_loss_d2:  tensor(2.6709, device='cuda:0', grad_fn=<DivBackward0>)
+LOSS:  tensor(0.0009, device='cuda:0', grad_fn=<DivBackward0>) 5
+total_loss_g:  tensor(1.3329, device='cuda:0', grad_fn=<DivBackward0>)
+total_loss_d:  tensor(1.3329, device='cuda:0', grad_fn=<DivBackward0>)
+total_loss_g2:  tensor(1.3428, device='cuda:0', grad_fn=<DivBackward0>)
+total_loss_d2:  tensor(2.6763, device='cuda:0', grad_fn=<DivBackward0>)
+LOSS:  tensor(0.0009, device='cuda:0', grad_fn=<DivBackward0>) 6
+total_loss_g:  tensor(1.3327, device='cuda:0', grad_fn=<DivBackward0>)
+total_loss_d:  tensor(1.3327, device='cuda:0', grad_fn=<DivBackward0>)
+total_loss_g2:  tensor(1.3428, device='cuda:0', grad_fn=<DivBackward0>)
+total_loss_d2:  tensor(2.6755, device='cuda:0', grad_fn=<DivBackward0>)
+LOSS:  tensor(0.0009, device='cuda:0', grad_fn=<DivBackward0>) 7
+total_loss_g:  tensor(1.3327, device='cuda:0', grad_fn=<DivBackward0>)
+total_loss_d:  tensor(1.3327, device='cuda:0', grad_fn=<DivBackward0>)
+total_loss_g2:  tensor(1.3428, device='cuda:0', grad_fn=<DivBackward0>)
+total_loss_d2:  tensor(2.6755, device='cuda:0', grad_fn=<DivBackward0>)
+LOSS:  tensor(0.0009, device='cuda:0', grad_fn=<DivBackward0>) 8
+total_loss_g:  tensor(1.3327, device='cuda:0', grad_fn=<DivBackward0>)
+total_loss_d:  tensor(1.3327, device='cuda:0', grad_fn=<DivBackward0>)
+total_loss_g2:  tensor(1.3428, device='cuda:0', grad_fn=<DivBackward0>)
+total_loss_d2:  tensor(2.6755, device='cuda:0', grad_fn=<DivBackward0>)
+LOSS:  tensor(0.0009, device='cuda:0', grad_fn=<DivBackward0>) 9
+total_loss_g:  tensor(1.3326, device='cuda:0', grad_fn=<DivBackward0>)
+total_loss_d:  tensor(1.3326, device='cuda:0', grad_fn=<DivBackward0>)
+total_loss_g2:  tensor(1.3428, device='cuda:0', grad_fn=<DivBackward0>)
+total_loss_d2:  tensor(2.6771, device='cuda:0', grad_fn=<DivBackward0>)
+LOSS:  tensor(0.0009, device='cuda:0', grad_fn=<DivBackward0>) 10
+total_loss_g:  tensor(1.3072, device='cuda:0', grad_fn=<DivBackward0>)
+total_loss_d:  tensor(1.3072, device='cuda:0', grad_fn=<DivBackward0>)
+total_loss_g2:  tensor(1.3428, device='cuda:0', grad_fn=<DivBackward0>)
+total_loss_d2:  tensor(2.6578, device='cuda:0', grad_fn=<DivBackward0>)
+(1.2128784353016344, 'accuracy: ', tensor(0.9525, device='cuda:0'), 'precision: ', 0.8503300330033003, 'Recall: ', 0.8357632802037596)
+LOSS:  tensor(0.0009, device='cuda:0', grad_fn=<DivBackward0>) 11
+total_loss_g:  tensor(1.3009, device='cuda:0', grad_fn=<DivBackward0>)
+total_loss_d:  tensor(1.3009, device='cuda:0', grad_fn=<DivBackward0>)
+total_loss_g2:  tensor(1.3428, device='cuda:0', grad_fn=<DivBackward0>)
+total_loss_d2:  tensor(2.6437, device='cuda:0', grad_fn=<DivBackward0>)
+LOSS:  tensor(0.0009, device='cuda:0', grad_fn=<DivBackward0>) 12
+total_loss_g:  tensor(1.2998, device='cuda:0', grad_fn=<DivBackward0>)
+total_loss_d:  tensor(1.2998, device='cuda:0', grad_fn=<DivBackward0>)
+total_loss_g2:  tensor(1.3428, device='cuda:0', grad_fn=<DivBackward0>)
+total_loss_d2:  tensor(2.6427, device='cuda:0', grad_fn=<DivBackward0>)
+LOSS:  tensor(0.0009, device='cuda:0', grad_fn=<DivBackward0>) 13
+total_loss_g:  tensor(1.3003, device='cuda:0', grad_fn=<DivBackward0>)
+total_loss_d:  tensor(1.3004, device='cuda:0', grad_fn=<DivBackward0>)
+total_loss_g2:  tensor(1.3428, device='cuda:0', grad_fn=<DivBackward0>)
+total_loss_d2:  tensor(2.6432, device='cuda:0', grad_fn=<DivBackward0>)
+LOSS:  tensor(0.0009, device='cuda:0', grad_fn=<DivBackward0>) 14
+total_loss_g:  tensor(1.2998, device='cuda:0', grad_fn=<DivBackward0>)
+total_loss_d:  tensor(1.2998, device='cuda:0', grad_fn=<DivBackward0>)
+total_loss_g2:  tensor(1.3428, device='cuda:0', grad_fn=<DivBackward0>)
+total_loss_d2:  tensor(2.6426, device='cuda:0', grad_fn=<DivBackward0>)
+LOSS:  tensor(0.0009, device='cuda:0', grad_fn=<DivBackward0>) 15
+total_loss_g:  tensor(1.2998, device='cuda:0', grad_fn=<DivBackward0>)
+total_loss_d:  tensor(1.2998, device='cuda:0', grad_fn=<DivBackward0>)
+total_loss_g2:  tensor(1.3428, device='cuda:0', grad_fn=<DivBackward0>)
+total_loss_d2:  tensor(2.6427, device='cuda:0', grad_fn=<DivBackward0>)
+LOSS:  tensor(0.0009, device='cuda:0', grad_fn=<DivBackward0>) 16
+total_loss_g:  tensor(1.2998, device='cuda:0', grad_fn=<DivBackward0>)
+total_loss_d:  tensor(1.2998, device='cuda:0', grad_fn=<DivBackward0>)
+total_loss_g2:  tensor(1.3428, device='cuda:0', grad_fn=<DivBackward0>)
+total_loss_d2:  tensor(2.6426, device='cuda:0', grad_fn=<DivBackward0>)
+LOSS:  tensor(0.0009, device='cuda:0', grad_fn=<DivBackward0>) 17
+total_loss_g:  tensor(1.2993, device='cuda:0', grad_fn=<DivBackward0>)
+total_loss_d:  tensor(1.2993, device='cuda:0', grad_fn=<DivBackward0>)
+total_loss_g2:  tensor(1.3428, device='cuda:0', grad_fn=<DivBackward0>)
+total_loss_d2:  tensor(2.6425, device='cuda:0', grad_fn=<DivBackward0>)
+LOSS:  tensor(0.0009, device='cuda:0', grad_fn=<DivBackward0>) 18
+total_loss_g:  tensor(1.2871, device='cuda:0', grad_fn=<DivBackward0>)
+total_loss_d:  tensor(1.2871, device='cuda:0', grad_fn=<DivBackward0>)
+total_loss_g2:  tensor(1.3428, device='cuda:0', grad_fn=<DivBackward0>)
+total_loss_d2:  tensor(2.6301, device='cuda:0', grad_fn=<DivBackward0>)
+LOSS:  tensor(0.0009, device='cuda:0', grad_fn=<DivBackward0>) 19
+total_loss_g:  tensor(1.2803, device='cuda:0', grad_fn=<DivBackward0>)
+total_loss_d:  tensor(1.2803, device='cuda:0', grad_fn=<DivBackward0>)
+total_loss_g2:  tensor(1.3428, device='cuda:0', grad_fn=<DivBackward0>)
+total_loss_d2:  tensor(2.6231, device='cuda:0', grad_fn=<DivBackward0>)
+LOSS:  tensor(0.0009, device='cuda:0', grad_fn=<DivBackward0>) 20
+total_loss_g:  tensor(1.2842, device='cuda:0', grad_fn=<DivBackward0>)
+total_loss_d:  tensor(1.2842, device='cuda:0', grad_fn=<DivBackward0>)
+total_loss_g2:  tensor(1.3428, device='cuda:0', grad_fn=<DivBackward0>)
+total_loss_d2:  tensor(2.6272, device='cuda:0', grad_fn=<DivBackward0>)
+(1.2126857606739139, 'accuracy: ', tensor(0.9527, device='cuda:0'), 'precision: ', 0.8513201320132013, 'Recall: ', 0.8370834122169609)
+LOSS:  tensor(0.0009, device='cuda:0', grad_fn=<DivBackward0>) 21
+total_loss_g:  tensor(1.2818, device='cuda:0', grad_fn=<DivBackward0>)
+total_loss_d:  tensor(1.2818, device='cuda:0', grad_fn=<DivBackward0>)
+total_loss_g2:  tensor(1.3428, device='cuda:0', grad_fn=<DivBackward0>)
+total_loss_d2:  tensor(2.6246, device='cuda:0', grad_fn=<DivBackward0>)
+LOSS:  tensor(0.0009, device='cuda:0', grad_fn=<DivBackward0>) 22
+total_loss_g:  tensor(1.2802, device='cuda:0', grad_fn=<DivBackward0>)
+total_loss_d:  tensor(1.2802, device='cuda:0', grad_fn=<DivBackward0>)
+total_loss_g2:  tensor(1.3428, device='cuda:0', grad_fn=<DivBackward0>)
+total_loss_d2:  tensor(2.6230, device='cuda:0', grad_fn=<DivBackward0>)
+LOSS:  tensor(0.0009, device='cuda:0', grad_fn=<DivBackward0>) 23
+total_loss_g:  tensor(1.2802, device='cuda:0', grad_fn=<DivBackward0>)
+total_loss_d:  tensor(1.2802, device='cuda:0', grad_fn=<DivBackward0>)
+total_loss_g2:  tensor(1.3428, device='cuda:0', grad_fn=<DivBackward0>)
+total_loss_d2:  tensor(2.6230, device='cuda:0', grad_fn=<DivBackward0>)
+LOSS:  tensor(0.0009, device='cuda:0', grad_fn=<DivBackward0>) 24
+total_loss_g:  tensor(1.2802, device='cuda:0', grad_fn=<DivBackward0>)
+total_loss_d:  tensor(1.2802, device='cuda:0', grad_fn=<DivBackward0>)
+total_loss_g2:  tensor(1.3428, device='cuda:0', grad_fn=<DivBackward0>)
+total_loss_d2:  tensor(2.6230, device='cuda:0', grad_fn=<DivBackward0>)
+LOSS:  tensor(0.0009, device='cuda:0', grad_fn=<DivBackward0>) 25
+total_loss_g:  tensor(1.2802, device='cuda:0', grad_fn=<DivBackward0>)
+total_loss_d:  tensor(1.2802, device='cuda:0', grad_fn=<DivBackward0>)
+total_loss_g2:  tensor(1.3428, device='cuda:0', grad_fn=<DivBackward0>)
+total_loss_d2:  tensor(2.6230, device='cuda:0', grad_fn=<DivBackward0>)
+LOSS:  tensor(0.0009, device='cuda:0', grad_fn=<DivBackward0>) 26
+total_loss_g:  tensor(1.2802, device='cuda:0', grad_fn=<DivBackward0>)
+total_loss_d:  tensor(1.2802, device='cuda:0', grad_fn=<DivBackward0>)
+total_loss_g2:  tensor(1.3428, device='cuda:0', grad_fn=<DivBackward0>)
+total_loss_d2:  tensor(2.6231, device='cuda:0', grad_fn=<DivBackward0>)
+LOSS:  tensor(0.0009, device='cuda:0', grad_fn=<DivBackward0>) 27
+total_loss_g:  tensor(1.2802, device='cuda:0', grad_fn=<DivBackward0>)
+total_loss_d:  tensor(1.2802, device='cuda:0', grad_fn=<DivBackward0>)
+total_loss_g2:  tensor(1.3428, device='cuda:0', grad_fn=<DivBackward0>)
+total_loss_d2:  tensor(2.6230, device='cuda:0', grad_fn=<DivBackward0>)
+LOSS:  tensor(0.0009, device='cuda:0', grad_fn=<DivBackward0>) 28
+total_loss_g:  tensor(1.2802, device='cuda:0', grad_fn=<DivBackward0>)
+total_loss_d:  tensor(1.2802, device='cuda:0', grad_fn=<DivBackward0>)
+total_loss_g2:  tensor(1.3428, device='cuda:0', grad_fn=<DivBackward0>)
+total_loss_d2:  tensor(2.6230, device='cuda:0', grad_fn=<DivBackward0>)
+LOSS:  tensor(0.0009, device='cuda:0', grad_fn=<DivBackward0>) 29
+total_loss_g:  tensor(1.2802, device='cuda:0', grad_fn=<DivBackward0>)
+total_loss_d:  tensor(1.2802, device='cuda:0', grad_fn=<DivBackward0>)
+total_loss_g2:  tensor(1.3428, device='cuda:0', grad_fn=<DivBackward0>)
+total_loss_d2:  tensor(2.6230, device='cuda:0', grad_fn=<DivBackward0>)
+LOSS:  tensor(0.0009, device='cuda:0', grad_fn=<DivBackward0>) 30
+total_loss_g:  tensor(1.2802, device='cuda:0', grad_fn=<DivBackward0>)
+total_loss_d:  tensor(1.2802, device='cuda:0', grad_fn=<DivBackward0>)
+total_loss_g2:  tensor(1.3428, device='cuda:0', grad_fn=<DivBackward0>)
+total_loss_d2:  tensor(2.6230, device='cuda:0', grad_fn=<DivBackward0>)
+(1.2087322659373756, 'accuracy: ', tensor(0.9567, device='cuda:0'), 'precision: ', 0.8665676567656767, 'Recall: ', 0.8539781135076927)
+LOSS:  tensor(0.0009, device='cuda:0', grad_fn=<DivBackward0>) 31
+total_loss_g:  tensor(1.2802, device='cuda:0', grad_fn=<DivBackward0>)
+total_loss_d:  tensor(1.2802, device='cuda:0', grad_fn=<DivBackward0>)
+total_loss_g2:  tensor(1.3428, device='cuda:0', grad_fn=<DivBackward0>)
+total_loss_d2:  tensor(2.6230, device='cuda:0', grad_fn=<DivBackward0>)
+LOSS:  tensor(0.0009, device='cuda:0', grad_fn=<DivBackward0>) 32
+total_loss_g:  tensor(1.2802, device='cuda:0', grad_fn=<DivBackward0>)
+total_loss_d:  tensor(1.2802, device='cuda:0', grad_fn=<DivBackward0>)
+total_loss_g2:  tensor(1.3428, device='cuda:0', grad_fn=<DivBackward0>)
+total_loss_d2:  tensor(2.6230, device='cuda:0', grad_fn=<DivBackward0>)
+LOSS:  tensor(0.0009, device='cuda:0', grad_fn=<DivBackward0>) 33
+total_loss_g:  tensor(1.2802, device='cuda:0', grad_fn=<DivBackward0>)
+total_loss_d:  tensor(1.2802, device='cuda:0', grad_fn=<DivBackward0>)
+total_loss_g2:  tensor(1.3428, device='cuda:0', grad_fn=<DivBackward0>)
+total_loss_d2:  tensor(2.6230, device='cuda:0', grad_fn=<DivBackward0>)
+LOSS:  tensor(0.0009, device='cuda:0', grad_fn=<DivBackward0>) 34
+total_loss_g:  tensor(1.2802, device='cuda:0', grad_fn=<DivBackward0>)
+total_loss_d:  tensor(1.2802, device='cuda:0', grad_fn=<DivBackward0>)
+total_loss_g2:  tensor(1.3428, device='cuda:0', grad_fn=<DivBackward0>)
+total_loss_d2:  tensor(2.6230, device='cuda:0', grad_fn=<DivBackward0>)
+LOSS:  tensor(0.0009, device='cuda:0', grad_fn=<DivBackward0>) 35
+total_loss_g:  tensor(1.2802, device='cuda:0', grad_fn=<DivBackward0>)
+total_loss_d:  tensor(1.2802, device='cuda:0', grad_fn=<DivBackward0>)
+total_loss_g2:  tensor(1.3428, device='cuda:0', grad_fn=<DivBackward0>)
+total_loss_d2:  tensor(2.6230, device='cuda:0', grad_fn=<DivBackward0>)
+LOSS:  tensor(0.0009, device='cuda:0', grad_fn=<DivBackward0>) 36
+total_loss_g:  tensor(1.2802, device='cuda:0', grad_fn=<DivBackward0>)
+total_loss_d:  tensor(1.2802, device='cuda:0', grad_fn=<DivBackward0>)
+total_loss_g2:  tensor(1.3428, device='cuda:0', grad_fn=<DivBackward0>)
+total_loss_d2:  tensor(2.6230, device='cuda:0', grad_fn=<DivBackward0>)
+LOSS:  tensor(0.0009, device='cuda:0', grad_fn=<DivBackward0>) 37
+total_loss_g:  tensor(1.2802, device='cuda:0', grad_fn=<DivBackward0>)
+total_loss_d:  tensor(1.2802, device='cuda:0', grad_fn=<DivBackward0>)
+total_loss_g2:  tensor(1.3428, device='cuda:0', grad_fn=<DivBackward0>)
+total_loss_d2:  tensor(2.6230, device='cuda:0', grad_fn=<DivBackward0>)
+LOSS:  tensor(0.0009, device='cuda:0', grad_fn=<DivBackward0>) 38
+total_loss_g:  tensor(1.2802, device='cuda:0', grad_fn=<DivBackward0>)
+total_loss_d:  tensor(1.2802, device='cuda:0', grad_fn=<DivBackward0>)
+total_loss_g2:  tensor(1.3428, device='cuda:0', grad_fn=<DivBackward0>)
+total_loss_d2:  tensor(2.6230, device='cuda:0', grad_fn=<DivBackward0>)
+LOSS:  tensor(0.0009, device='cuda:0', grad_fn=<DivBackward0>) 39
+total_loss_g:  tensor(1.2802, device='cuda:0', grad_fn=<DivBackward0>)
+total_loss_d:  tensor(1.2802, device='cuda:0', grad_fn=<DivBackward0>)
+total_loss_g2:  tensor(1.3428, device='cuda:0', grad_fn=<DivBackward0>)
+total_loss_d2:  tensor(2.6230, device='cuda:0', grad_fn=<DivBackward0>)
+LOSS:  tensor(0.0009, device='cuda:0', grad_fn=<DivBackward0>) 40
+total_loss_g:  tensor(1.2802, device='cuda:0', grad_fn=<DivBackward0>)
+total_loss_d:  tensor(1.2802, device='cuda:0', grad_fn=<DivBackward0>)
+total_loss_g2:  tensor(1.3428, device='cuda:0', grad_fn=<DivBackward0>)
+total_loss_d2:  tensor(2.6230, device='cuda:0', grad_fn=<DivBackward0>)
+(1.2087279120019867, 'accuracy: ', tensor(0.9567, device='cuda:0'), 'precision: ', 0.8665676567656767, 'Recall: ', 0.8539781135076927)
+LOSS:  tensor(0.0009, device='cuda:0', grad_fn=<DivBackward0>) 41
+total_loss_g:  tensor(1.2802, device='cuda:0', grad_fn=<DivBackward0>)
+total_loss_d:  tensor(1.2802, device='cuda:0', grad_fn=<DivBackward0>)
+total_loss_g2:  tensor(1.3428, device='cuda:0', grad_fn=<DivBackward0>)
+total_loss_d2:  tensor(2.6230, device='cuda:0', grad_fn=<DivBackward0>)
+LOSS:  tensor(0.0009, device='cuda:0', grad_fn=<DivBackward0>) 42
+total_loss_g:  tensor(1.2802, device='cuda:0', grad_fn=<DivBackward0>)
+total_loss_d:  tensor(1.2802, device='cuda:0', grad_fn=<DivBackward0>)
+total_loss_g2:  tensor(1.3428, device='cuda:0', grad_fn=<DivBackward0>)
+total_loss_d2:  tensor(2.6230, device='cuda:0', grad_fn=<DivBackward0>)
+LOSS:  tensor(0.0009, device='cuda:0', grad_fn=<DivBackward0>) 43
+total_loss_g:  tensor(1.2802, device='cuda:0', grad_fn=<DivBackward0>)
+total_loss_d:  tensor(1.2802, device='cuda:0', grad_fn=<DivBackward0>)
+total_loss_g2:  tensor(1.3428, device='cuda:0', grad_fn=<DivBackward0>)
+total_loss_d2:  tensor(2.6230, device='cuda:0', grad_fn=<DivBackward0>)
+LOSS:  tensor(0.0009, device='cuda:0', grad_fn=<DivBackward0>) 44
+total_loss_g:  tensor(1.2802, device='cuda:0', grad_fn=<DivBackward0>)
+total_loss_d:  tensor(1.2802, device='cuda:0', grad_fn=<DivBackward0>)
+total_loss_g2:  tensor(1.3428, device='cuda:0', grad_fn=<DivBackward0>)
+total_loss_d2:  tensor(2.6230, device='cuda:0', grad_fn=<DivBackward0>)
+LOSS:  tensor(0.0009, device='cuda:0', grad_fn=<DivBackward0>) 45
+total_loss_g:  tensor(1.2802, device='cuda:0', grad_fn=<DivBackward0>)
+total_loss_d:  tensor(1.2802, device='cuda:0', grad_fn=<DivBackward0>)
+total_loss_g2:  tensor(1.3428, device='cuda:0', grad_fn=<DivBackward0>)
+total_loss_d2:  tensor(2.6230, device='cuda:0', grad_fn=<DivBackward0>)
+LOSS:  tensor(0.0009, device='cuda:0', grad_fn=<DivBackward0>) 46
+total_loss_g:  tensor(1.2802, device='cuda:0', grad_fn=<DivBackward0>)
+total_loss_d:  tensor(1.2802, device='cuda:0', grad_fn=<DivBackward0>)
+total_loss_g2:  tensor(1.3428, device='cuda:0', grad_fn=<DivBackward0>)
+total_loss_d2:  tensor(2.6230, device='cuda:0', grad_fn=<DivBackward0>)
+LOSS:  tensor(0.0009, device='cuda:0', grad_fn=<DivBackward0>) 47
+total_loss_g:  tensor(1.2802, device='cuda:0', grad_fn=<DivBackward0>)
+total_loss_d:  tensor(1.2802, device='cuda:0', grad_fn=<DivBackward0>)
+total_loss_g2:  tensor(1.3428, device='cuda:0', grad_fn=<DivBackward0>)
+total_loss_d2:  tensor(2.6230, device='cuda:0', grad_fn=<DivBackward0>)
+LOSS:  tensor(0.0009, device='cuda:0', grad_fn=<DivBackward0>) 48
+total_loss_g:  tensor(1.2802, device='cuda:0', grad_fn=<DivBackward0>)
+total_loss_d:  tensor(1.2802, device='cuda:0', grad_fn=<DivBackward0>)
+total_loss_g2:  tensor(1.3428, device='cuda:0', grad_fn=<DivBackward0>)
+total_loss_d2:  tensor(2.6230, device='cuda:0', grad_fn=<DivBackward0>)
+LOSS:  tensor(0.0009, device='cuda:0', grad_fn=<DivBackward0>) 49
+total_loss_g:  tensor(1.2802, device='cuda:0', grad_fn=<DivBackward0>)
+total_loss_d:  tensor(1.2802, device='cuda:0', grad_fn=<DivBackward0>)
+total_loss_g2:  tensor(1.3428, device='cuda:0', grad_fn=<DivBackward0>)
+total_loss_d2:  tensor(2.6230, device='cuda:0', grad_fn=<DivBackward0>)
+LOSS:  tensor(0.0009, device='cuda:0', grad_fn=<DivBackward0>) 50
+total_loss_g:  tensor(1.2802, device='cuda:0', grad_fn=<DivBackward0>)
+total_loss_d:  tensor(1.2802, device='cuda:0', grad_fn=<DivBackward0>)
+total_loss_g2:  tensor(1.3428, device='cuda:0', grad_fn=<DivBackward0>)
+total_loss_d2:  tensor(2.6230, device='cuda:0', grad_fn=<DivBackward0>)
+(1.2087279120019867, 'accuracy: ', tensor(0.9567, device='cuda:0'), 'precision: ', 0.8665676567656767, 'Recall: ', 0.8539781135076927)
+LOSS:  tensor(0.0009, device='cuda:0', grad_fn=<DivBackward0>) 51
+total_loss_g:  tensor(1.2802, device='cuda:0', grad_fn=<DivBackward0>)
+total_loss_d:  tensor(1.2802, device='cuda:0', grad_fn=<DivBackward0>)
+total_loss_g2:  tensor(1.3428, device='cuda:0', grad_fn=<DivBackward0>)
+total_loss_d2:  tensor(2.6230, device='cuda:0', grad_fn=<DivBackward0>)
+LOSS:  tensor(0.0009, device='cuda:0', grad_fn=<DivBackward0>) 52
+total_loss_g:  tensor(1.2802, device='cuda:0', grad_fn=<DivBackward0>)
+total_loss_d:  tensor(1.2802, device='cuda:0', grad_fn=<DivBackward0>)
+total_loss_g2:  tensor(1.3428, device='cuda:0', grad_fn=<DivBackward0>)
+total_loss_d2:  tensor(2.6230, device='cuda:0', grad_fn=<DivBackward0>)
+LOSS:  tensor(0.0009, device='cuda:0', grad_fn=<DivBackward0>) 53
+total_loss_g:  tensor(1.2802, device='cuda:0', grad_fn=<DivBackward0>)
+total_loss_d:  tensor(1.2802, device='cuda:0', grad_fn=<DivBackward0>)
+total_loss_g2:  tensor(1.3428, device='cuda:0', grad_fn=<DivBackward0>)
+total_loss_d2:  tensor(2.6230, device='cuda:0', grad_fn=<DivBackward0>)
+LOSS:  tensor(0.0009, device='cuda:0', grad_fn=<DivBackward0>) 54
+total_loss_g:  tensor(1.2802, device='cuda:0', grad_fn=<DivBackward0>)
+total_loss_d:  tensor(1.2802, device='cuda:0', grad_fn=<DivBackward0>)
+total_loss_g2:  tensor(1.3428, device='cuda:0', grad_fn=<DivBackward0>)
+total_loss_d2:  tensor(2.6230, device='cuda:0', grad_fn=<DivBackward0>)
+LOSS:  tensor(0.0009, device='cuda:0', grad_fn=<DivBackward0>) 55
+total_loss_g:  tensor(1.2802, device='cuda:0', grad_fn=<DivBackward0>)
+total_loss_d:  tensor(1.2802, device='cuda:0', grad_fn=<DivBackward0>)
+total_loss_g2:  tensor(1.3428, device='cuda:0', grad_fn=<DivBackward0>)
+total_loss_d2:  tensor(2.6230, device='cuda:0', grad_fn=<DivBackward0>)
+LOSS:  tensor(0.0009, device='cuda:0', grad_fn=<DivBackward0>) 56
+total_loss_g:  tensor(1.2802, device='cuda:0', grad_fn=<DivBackward0>)
+total_loss_d:  tensor(1.2802, device='cuda:0', grad_fn=<DivBackward0>)
+total_loss_g2:  tensor(1.3428, device='cuda:0', grad_fn=<DivBackward0>)
+total_loss_d2:  tensor(2.6230, device='cuda:0', grad_fn=<DivBackward0>)
+LOSS:  tensor(0.0009, device='cuda:0', grad_fn=<DivBackward0>) 57
+total_loss_g:  tensor(1.2802, device='cuda:0', grad_fn=<DivBackward0>)
+total_loss_d:  tensor(1.2802, device='cuda:0', grad_fn=<DivBackward0>)
+total_loss_g2:  tensor(1.3428, device='cuda:0', grad_fn=<DivBackward0>)
+total_loss_d2:  tensor(2.6230, device='cuda:0', grad_fn=<DivBackward0>)
+LOSS:  tensor(0.0009, device='cuda:0', grad_fn=<DivBackward0>) 58
+total_loss_g:  tensor(1.2802, device='cuda:0', grad_fn=<DivBackward0>)
+total_loss_d:  tensor(1.2802, device='cuda:0', grad_fn=<DivBackward0>)
+total_loss_g2:  tensor(1.3428, device='cuda:0', grad_fn=<DivBackward0>)
+total_loss_d2:  tensor(2.6230, device='cuda:0', grad_fn=<DivBackward0>)
+LOSS:  tensor(0.0009, device='cuda:0', grad_fn=<DivBackward0>) 59
+total_loss_g:  tensor(1.2802, device='cuda:0', grad_fn=<DivBackward0>)
+total_loss_d:  tensor(1.2802, device='cuda:0', grad_fn=<DivBackward0>)
+total_loss_g2:  tensor(1.3428, device='cuda:0', grad_fn=<DivBackward0>)
+total_loss_d2:  tensor(2.6230, device='cuda:0', grad_fn=<DivBackward0>)
+LOSS:  tensor(0.0009, device='cuda:0', grad_fn=<DivBackward0>) 60
+total_loss_g:  tensor(1.2802, device='cuda:0', grad_fn=<DivBackward0>)
+total_loss_d:  tensor(1.2802, device='cuda:0', grad_fn=<DivBackward0>)
+total_loss_g2:  tensor(1.3428, device='cuda:0', grad_fn=<DivBackward0>)
+total_loss_d2:  tensor(2.6230, device='cuda:0', grad_fn=<DivBackward0>)
+(1.2087279120019867, 'accuracy: ', tensor(0.9567, device='cuda:0'), 'precision: ', 0.8665676567656767, 'Recall: ', 0.8539781135076927)
+LOSS:  tensor(0.0009, device='cuda:0', grad_fn=<DivBackward0>) 61
+total_loss_g:  tensor(1.2802, device='cuda:0', grad_fn=<DivBackward0>)
+total_loss_d:  tensor(1.2802, device='cuda:0', grad_fn=<DivBackward0>)
+total_loss_g2:  tensor(1.3428, device='cuda:0', grad_fn=<DivBackward0>)
+total_loss_d2:  tensor(2.6230, device='cuda:0', grad_fn=<DivBackward0>)
+LOSS:  tensor(0.0009, device='cuda:0', grad_fn=<DivBackward0>) 62
+total_loss_g:  tensor(1.2802, device='cuda:0', grad_fn=<DivBackward0>)
+total_loss_d:  tensor(1.2802, device='cuda:0', grad_fn=<DivBackward0>)
+total_loss_g2:  tensor(1.3428, device='cuda:0', grad_fn=<DivBackward0>)
+total_loss_d2:  tensor(2.6230, device='cuda:0', grad_fn=<DivBackward0>)
+LOSS:  tensor(0.0009, device='cuda:0', grad_fn=<DivBackward0>) 63
+total_loss_g:  tensor(1.2802, device='cuda:0', grad_fn=<DivBackward0>)
+total_loss_d:  tensor(1.2802, device='cuda:0', grad_fn=<DivBackward0>)
+total_loss_g2:  tensor(1.3428, device='cuda:0', grad_fn=<DivBackward0>)
+total_loss_d2:  tensor(2.6230, device='cuda:0', grad_fn=<DivBackward0>)
+LOSS:  tensor(0.0009, device='cuda:0', grad_fn=<DivBackward0>) 64
+total_loss_g:  tensor(1.2802, device='cuda:0', grad_fn=<DivBackward0>)
+total_loss_d:  tensor(1.2802, device='cuda:0', grad_fn=<DivBackward0>)
+total_loss_g2:  tensor(1.3428, device='cuda:0', grad_fn=<DivBackward0>)
+total_loss_d2:  tensor(2.6230, device='cuda:0', grad_fn=<DivBackward0>)
+LOSS:  tensor(0.0009, device='cuda:0', grad_fn=<DivBackward0>) 65
+total_loss_g:  tensor(1.2802, device='cuda:0', grad_fn=<DivBackward0>)
+total_loss_d:  tensor(1.2802, device='cuda:0', grad_fn=<DivBackward0>)
+total_loss_g2:  tensor(1.3428, device='cuda:0', grad_fn=<DivBackward0>)
+total_loss_d2:  tensor(2.6230, device='cuda:0', grad_fn=<DivBackward0>)
+LOSS:  tensor(0.0009, device='cuda:0', grad_fn=<DivBackward0>) 66
+total_loss_g:  tensor(1.2802, device='cuda:0', grad_fn=<DivBackward0>)
+total_loss_d:  tensor(1.2802, device='cuda:0', grad_fn=<DivBackward0>)
+total_loss_g2:  tensor(1.3428, device='cuda:0', grad_fn=<DivBackward0>)
+total_loss_d2:  tensor(2.6230, device='cuda:0', grad_fn=<DivBackward0>)
+LOSS:  tensor(0.0009, device='cuda:0', grad_fn=<DivBackward0>) 67
+total_loss_g:  tensor(1.2802, device='cuda:0', grad_fn=<DivBackward0>)
+total_loss_d:  tensor(1.2802, device='cuda:0', grad_fn=<DivBackward0>)
+total_loss_g2:  tensor(1.3428, device='cuda:0', grad_fn=<DivBackward0>)
+total_loss_d2:  tensor(2.6230, device='cuda:0', grad_fn=<DivBackward0>)
+LOSS:  tensor(0.0009, device='cuda:0', grad_fn=<DivBackward0>) 68
+total_loss_g:  tensor(1.2802, device='cuda:0', grad_fn=<DivBackward0>)
+total_loss_d:  tensor(1.2802, device='cuda:0', grad_fn=<DivBackward0>)
+total_loss_g2:  tensor(1.3428, device='cuda:0', grad_fn=<DivBackward0>)
+total_loss_d2:  tensor(2.6230, device='cuda:0', grad_fn=<DivBackward0>)
+LOSS:  tensor(0.0009, device='cuda:0', grad_fn=<DivBackward0>) 69
+total_loss_g:  tensor(1.2802, device='cuda:0', grad_fn=<DivBackward0>)
+total_loss_d:  tensor(1.2802, device='cuda:0', grad_fn=<DivBackward0>)
+total_loss_g2:  tensor(1.3428, device='cuda:0', grad_fn=<DivBackward0>)
+total_loss_d2:  tensor(2.6230, device='cuda:0', grad_fn=<DivBackward0>)
+LOSS:  tensor(0.0009, device='cuda:0', grad_fn=<DivBackward0>) 70
+total_loss_g:  tensor(1.2802, device='cuda:0', grad_fn=<DivBackward0>)
+total_loss_d:  tensor(1.2802, device='cuda:0', grad_fn=<DivBackward0>)
+total_loss_g2:  tensor(1.3428, device='cuda:0', grad_fn=<DivBackward0>)
+total_loss_d2:  tensor(2.6230, device='cuda:0', grad_fn=<DivBackward0>)
+(1.2087279120019867, 'accuracy: ', tensor(0.9567, device='cuda:0'), 'precision: ', 0.8665676567656767, 'Recall: ', 0.8539781135076927)
+LOSS:  tensor(0.0009, device='cuda:0', grad_fn=<DivBackward0>) 71
+total_loss_g:  tensor(1.2802, device='cuda:0', grad_fn=<DivBackward0>)
+total_loss_d:  tensor(1.2802, device='cuda:0', grad_fn=<DivBackward0>)
+total_loss_g2:  tensor(1.3428, device='cuda:0', grad_fn=<DivBackward0>)
+total_loss_d2:  tensor(2.6230, device='cuda:0', grad_fn=<DivBackward0>)
+LOSS:  tensor(0.0009, device='cuda:0', grad_fn=<DivBackward0>) 72
+total_loss_g:  tensor(1.2802, device='cuda:0', grad_fn=<DivBackward0>)
+total_loss_d:  tensor(1.2802, device='cuda:0', grad_fn=<DivBackward0>)
+total_loss_g2:  tensor(1.3428, device='cuda:0', grad_fn=<DivBackward0>)
+total_loss_d2:  tensor(2.6230, device='cuda:0', grad_fn=<DivBackward0>)
+LOSS:  tensor(0.0009, device='cuda:0', grad_fn=<DivBackward0>) 73
+total_loss_g:  tensor(1.2802, device='cuda:0', grad_fn=<DivBackward0>)
+total_loss_d:  tensor(1.2802, device='cuda:0', grad_fn=<DivBackward0>)
+total_loss_g2:  tensor(1.3428, device='cuda:0', grad_fn=<DivBackward0>)
+total_loss_d2:  tensor(2.6230, device='cuda:0', grad_fn=<DivBackward0>)
+LOSS:  tensor(0.0009, device='cuda:0', grad_fn=<DivBackward0>) 74
+total_loss_g:  tensor(1.2802, device='cuda:0', grad_fn=<DivBackward0>)
+total_loss_d:  tensor(1.2802, device='cuda:0', grad_fn=<DivBackward0>)
+total_loss_g2:  tensor(1.3428, device='cuda:0', grad_fn=<DivBackward0>)
+total_loss_d2:  tensor(2.6230, device='cuda:0', grad_fn=<DivBackward0>)
+LOSS:  tensor(0.0009, device='cuda:0', grad_fn=<DivBackward0>) 75
+total_loss_g:  tensor(1.2802, device='cuda:0', grad_fn=<DivBackward0>)
+total_loss_d:  tensor(1.2802, device='cuda:0', grad_fn=<DivBackward0>)
+total_loss_g2:  tensor(1.3428, device='cuda:0', grad_fn=<DivBackward0>)
+total_loss_d2:  tensor(2.6230, device='cuda:0', grad_fn=<DivBackward0>)
+LOSS:  tensor(0.0009, device='cuda:0', grad_fn=<DivBackward0>) 76
+total_loss_g:  tensor(1.2802, device='cuda:0', grad_fn=<DivBackward0>)
+total_loss_d:  tensor(1.2802, device='cuda:0', grad_fn=<DivBackward0>)
+total_loss_g2:  tensor(1.3428, device='cuda:0', grad_fn=<DivBackward0>)
+total_loss_d2:  tensor(2.6230, device='cuda:0', grad_fn=<DivBackward0>)
+LOSS:  tensor(0.0009, device='cuda:0', grad_fn=<DivBackward0>) 77
+total_loss_g:  tensor(1.2802, device='cuda:0', grad_fn=<DivBackward0>)
+total_loss_d:  tensor(1.2802, device='cuda:0', grad_fn=<DivBackward0>)
+total_loss_g2:  tensor(1.3428, device='cuda:0', grad_fn=<DivBackward0>)
+total_loss_d2:  tensor(2.6230, device='cuda:0', grad_fn=<DivBackward0>)
+LOSS:  tensor(0.0009, device='cuda:0', grad_fn=<DivBackward0>) 78
+total_loss_g:  tensor(1.2802, device='cuda:0', grad_fn=<DivBackward0>)
+total_loss_d:  tensor(1.2802, device='cuda:0', grad_fn=<DivBackward0>)
+total_loss_g2:  tensor(1.3428, device='cuda:0', grad_fn=<DivBackward0>)
+total_loss_d2:  tensor(2.6230, device='cuda:0', grad_fn=<DivBackward0>)
+LOSS:  tensor(0.0009, device='cuda:0', grad_fn=<DivBackward0>) 79
+total_loss_g:  tensor(1.2802, device='cuda:0', grad_fn=<DivBackward0>)
+total_loss_d:  tensor(1.2802, device='cuda:0', grad_fn=<DivBackward0>)
+total_loss_g2:  tensor(1.3428, device='cuda:0', grad_fn=<DivBackward0>)
+total_loss_d2:  tensor(2.6230, device='cuda:0', grad_fn=<DivBackward0>)
+LOSS:  tensor(0.0009, device='cuda:0', grad_fn=<DivBackward0>) 80
+total_loss_g:  tensor(1.2802, device='cuda:0', grad_fn=<DivBackward0>)
+total_loss_d:  tensor(1.2802, device='cuda:0', grad_fn=<DivBackward0>)
+total_loss_g2:  tensor(1.3428, device='cuda:0', grad_fn=<DivBackward0>)
+total_loss_d2:  tensor(2.6230, device='cuda:0', grad_fn=<DivBackward0>)
+(1.2087279120019867, 'accuracy: ', tensor(0.9567, device='cuda:0'), 'precision: ', 0.8665676567656767, 'Recall: ', 0.8539781135076927)
+LOSS:  tensor(0.0009, device='cuda:0', grad_fn=<DivBackward0>) 81
+total_loss_g:  tensor(1.2802, device='cuda:0', grad_fn=<DivBackward0>)
+total_loss_d:  tensor(1.2802, device='cuda:0', grad_fn=<DivBackward0>)
+total_loss_g2:  tensor(1.3428, device='cuda:0', grad_fn=<DivBackward0>)
+total_loss_d2:  tensor(2.6230, device='cuda:0', grad_fn=<DivBackward0>)
+LOSS:  tensor(0.0009, device='cuda:0', grad_fn=<DivBackward0>) 82
+total_loss_g:  tensor(1.2802, device='cuda:0', grad_fn=<DivBackward0>)
+total_loss_d:  tensor(1.2802, device='cuda:0', grad_fn=<DivBackward0>)
+total_loss_g2:  tensor(1.3428, device='cuda:0', grad_fn=<DivBackward0>)
+total_loss_d2:  tensor(2.6230, device='cuda:0', grad_fn=<DivBackward0>)
+LOSS:  tensor(0.0009, device='cuda:0', grad_fn=<DivBackward0>) 83
+total_loss_g:  tensor(1.2802, device='cuda:0', grad_fn=<DivBackward0>)
+total_loss_d:  tensor(1.2802, device='cuda:0', grad_fn=<DivBackward0>)
+total_loss_g2:  tensor(1.3428, device='cuda:0', grad_fn=<DivBackward0>)
+total_loss_d2:  tensor(2.6230, device='cuda:0', grad_fn=<DivBackward0>)
+LOSS:  tensor(0.0009, device='cuda:0', grad_fn=<DivBackward0>) 84
+total_loss_g:  tensor(1.2802, device='cuda:0', grad_fn=<DivBackward0>)
+total_loss_d:  tensor(1.2802, device='cuda:0', grad_fn=<DivBackward0>)
+total_loss_g2:  tensor(1.3428, device='cuda:0', grad_fn=<DivBackward0>)
+total_loss_d2:  tensor(2.6230, device='cuda:0', grad_fn=<DivBackward0>)
+LOSS:  tensor(0.0009, device='cuda:0', grad_fn=<DivBackward0>) 85
+total_loss_g:  tensor(1.2802, device='cuda:0', grad_fn=<DivBackward0>)
+total_loss_d:  tensor(1.2802, device='cuda:0', grad_fn=<DivBackward0>)
+total_loss_g2:  tensor(1.3428, device='cuda:0', grad_fn=<DivBackward0>)
+total_loss_d2:  tensor(2.6230, device='cuda:0', grad_fn=<DivBackward0>)
+LOSS:  tensor(0.0009, device='cuda:0', grad_fn=<DivBackward0>) 86
+total_loss_g:  tensor(1.2802, device='cuda:0', grad_fn=<DivBackward0>)
+total_loss_d:  tensor(1.2802, device='cuda:0', grad_fn=<DivBackward0>)
+total_loss_g2:  tensor(1.3428, device='cuda:0', grad_fn=<DivBackward0>)
+total_loss_d2:  tensor(2.6230, device='cuda:0', grad_fn=<DivBackward0>)
+LOSS:  tensor(0.0009, device='cuda:0', grad_fn=<DivBackward0>) 87
+total_loss_g:  tensor(1.2802, device='cuda:0', grad_fn=<DivBackward0>)
+total_loss_d:  tensor(1.2802, device='cuda:0', grad_fn=<DivBackward0>)
+total_loss_g2:  tensor(1.3428, device='cuda:0', grad_fn=<DivBackward0>)
+total_loss_d2:  tensor(2.6230, device='cuda:0', grad_fn=<DivBackward0>)
+LOSS:  tensor(0.0009, device='cuda:0', grad_fn=<DivBackward0>) 88
+total_loss_g:  tensor(1.2802, device='cuda:0', grad_fn=<DivBackward0>)
+total_loss_d:  tensor(1.2802, device='cuda:0', grad_fn=<DivBackward0>)
+total_loss_g2:  tensor(1.3428, device='cuda:0', grad_fn=<DivBackward0>)
+total_loss_d2:  tensor(2.6230, device='cuda:0', grad_fn=<DivBackward0>)
+LOSS:  tensor(0.0009, device='cuda:0', grad_fn=<DivBackward0>) 89
+total_loss_g:  tensor(1.2802, device='cuda:0', grad_fn=<DivBackward0>)
+total_loss_d:  tensor(1.2802, device='cuda:0', grad_fn=<DivBackward0>)
+total_loss_g2:  tensor(1.3428, device='cuda:0', grad_fn=<DivBackward0>)
+total_loss_d2:  tensor(2.6230, device='cuda:0', grad_fn=<DivBackward0>)
+LOSS:  tensor(0.0009, device='cuda:0', grad_fn=<DivBackward0>) 90
+total_loss_g:  tensor(1.2802, device='cuda:0', grad_fn=<DivBackward0>)
+total_loss_d:  tensor(1.2802, device='cuda:0', grad_fn=<DivBackward0>)
+total_loss_g2:  tensor(1.3428, device='cuda:0', grad_fn=<DivBackward0>)
+total_loss_d2:  tensor(2.6230, device='cuda:0', grad_fn=<DivBackward0>)
+(1.2087279120019867, 'accuracy: ', tensor(0.9567, device='cuda:0'), 'precision: ', 0.8665676567656767, 'Recall: ', 0.8539781135076927)
+LOSS:  tensor(0.0009, device='cuda:0', grad_fn=<DivBackward0>) 91
+total_loss_g:  tensor(1.2802, device='cuda:0', grad_fn=<DivBackward0>)
+total_loss_d:  tensor(1.2802, device='cuda:0', grad_fn=<DivBackward0>)
+total_loss_g2:  tensor(1.3428, device='cuda:0', grad_fn=<DivBackward0>)
+total_loss_d2:  tensor(2.6230, device='cuda:0', grad_fn=<DivBackward0>)
+LOSS:  tensor(0.0009, device='cuda:0', grad_fn=<DivBackward0>) 92
+total_loss_g:  tensor(1.2802, device='cuda:0', grad_fn=<DivBackward0>)
+total_loss_d:  tensor(1.2802, device='cuda:0', grad_fn=<DivBackward0>)
+total_loss_g2:  tensor(1.3428, device='cuda:0', grad_fn=<DivBackward0>)
+total_loss_d2:  tensor(2.6230, device='cuda:0', grad_fn=<DivBackward0>)
+LOSS:  tensor(0.0009, device='cuda:0', grad_fn=<DivBackward0>) 93
+total_loss_g:  tensor(1.2802, device='cuda:0', grad_fn=<DivBackward0>)
+total_loss_d:  tensor(1.2802, device='cuda:0', grad_fn=<DivBackward0>)
+total_loss_g2:  tensor(1.3428, device='cuda:0', grad_fn=<DivBackward0>)
+total_loss_d2:  tensor(2.6230, device='cuda:0', grad_fn=<DivBackward0>)
+LOSS:  tensor(0.0009, device='cuda:0', grad_fn=<DivBackward0>) 94
+total_loss_g:  tensor(1.2802, device='cuda:0', grad_fn=<DivBackward0>)
+total_loss_d:  tensor(1.2802, device='cuda:0', grad_fn=<DivBackward0>)
+total_loss_g2:  tensor(1.3428, device='cuda:0', grad_fn=<DivBackward0>)
+total_loss_d2:  tensor(2.6230, device='cuda:0', grad_fn=<DivBackward0>)
+LOSS:  tensor(0.0009, device='cuda:0', grad_fn=<DivBackward0>) 95
+total_loss_g:  tensor(1.2802, device='cuda:0', grad_fn=<DivBackward0>)
+total_loss_d:  tensor(1.2802, device='cuda:0', grad_fn=<DivBackward0>)
+total_loss_g2:  tensor(1.3428, device='cuda:0', grad_fn=<DivBackward0>)
+total_loss_d2:  tensor(2.6230, device='cuda:0', grad_fn=<DivBackward0>)
+LOSS:  tensor(0.0009, device='cuda:0', grad_fn=<DivBackward0>) 96
+total_loss_g:  tensor(1.2802, device='cuda:0', grad_fn=<DivBackward0>)
+total_loss_d:  tensor(1.2802, device='cuda:0', grad_fn=<DivBackward0>)
+total_loss_g2:  tensor(1.3428, device='cuda:0', grad_fn=<DivBackward0>)
+total_loss_d2:  tensor(2.6230, device='cuda:0', grad_fn=<DivBackward0>)
+LOSS:  tensor(0.0009, device='cuda:0', grad_fn=<DivBackward0>) 97
+total_loss_g:  tensor(1.2802, device='cuda:0', grad_fn=<DivBackward0>)
+total_loss_d:  tensor(1.2802, device='cuda:0', grad_fn=<DivBackward0>)
+total_loss_g2:  tensor(1.3428, device='cuda:0', grad_fn=<DivBackward0>)
+total_loss_d2:  tensor(2.6230, device='cuda:0', grad_fn=<DivBackward0>)
+LOSS:  tensor(0.0009, device='cuda:0', grad_fn=<DivBackward0>) 98
+total_loss_g:  tensor(1.2802, device='cuda:0', grad_fn=<DivBackward0>)
+total_loss_d:  tensor(1.2802, device='cuda:0', grad_fn=<DivBackward0>)
+total_loss_g2:  tensor(1.3428, device='cuda:0', grad_fn=<DivBackward0>)
+total_loss_d2:  tensor(2.6230, device='cuda:0', grad_fn=<DivBackward0>)
+LOSS:  tensor(0.0009, device='cuda:0', grad_fn=<DivBackward0>) 99
+total_loss_g:  tensor(1.2802, device='cuda:0', grad_fn=<DivBackward0>)
+total_loss_d:  tensor(1.2802, device='cuda:0', grad_fn=<DivBackward0>)
+total_loss_g2:  tensor(1.3428, device='cuda:0', grad_fn=<DivBackward0>)
+total_loss_d2:  tensor(2.6230, device='cuda:0', grad_fn=<DivBackward0>)
